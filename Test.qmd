@@ -1,18 +1,79 @@
-# Summative Assessment: Qualitative report {#ch7_qualitative_report}
+# Qualitative report {#ch12_qualitative_report}
 
-## Report Writing Guide
+In this section, you will find information and guidance about your qualitative report and a report writing guide. Please make sure to familiarise yourself with the [Assessment Information](#ch4_AIS_report) before starting to work on the report. We have also provided a [suggested timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQM2Fzsi0FJAlDKTJXgi7-8Brm7ITIBw5ta3MaXSiDZfrg?e=FMLoM4){target="_blank"} for the qualitative report and portfolio
 
-This section is intended to help you in the write up of your qualitative project report.  When writing your report, remember to use the other resources available to you:
+For this assignment, you will be asked to write an individual qualitative report on one of five secondary data topics. You should conduct Thematic Analysis on your chosen dataset. A video on the Qualitative report will be provided on Moodle - please make sure to watch this. We provide guidelines on the report [later in this chapter](#qual_report_guide)
 
-- Chapter 13 in [Braun & Clarke (2013)](https://go.exlibris.link/5g3nFfGx){target="_blank"} is excellent support for writing up qualitative research
-- The feedback your group received on your group proposal
-- The feedback you received from RM1
-- [Braun & Clark (2006) paper](https://www.tandfonline.com/doi/abs/10.1191/1478088706QP063OA)
-- Helpful resources for APA formatting are [OWL Purdue](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html) and [APA Style](https://apastyle.apa.org/style-grammar-guidelines)
-- We have developed a resource of [Frequently Asked Questions](#ch8_FAQs) from previous cohorts
-- [Student Learning Development](https://www.gla.ac.uk/myglasgow/sld/) have useful information about writing for students
+## Report datasets and how to use UK data service
 
-If you have further questions, post on Teams and/or visit your tutor's office hours.  All the best in writing your report.
+Before accessing your datasets, watch [this video](https://echo360.org.uk/media/ac815f47-bb97-40cc-8c34-d82d74e4bb0e/public){target="_blank"} on how to use UK data service. It shows you an example of how to download the data with one of the datasets. Please note that some of the datasets are on sensitive topics, and contain information that may be upsetting: make sure to familiarise yourself with the interview schedules and have a quick scan of the data before you decide which dataset to work with. 
+
+[The UK data service can be accessed here](https://beta.ukdataservice.ac.uk/myaccount/login){target="_blank"}
+
+You can choose one of the five available datasets: 
+  
+  1. [Interviews with disabled young people and carers](https://datacatalogue.ukdataservice.ac.uk/studies/study/854556?type=reshare#details){target="_blank"}
+  2. [LGBT+ networks in the workplace](https://datacatalogue.ukdataservice.ac.uk/studies/study/855322?type=reshare#details){target="_blank"}
+  3. [Long-term relationships](https://datacatalogue.ukdataservice.ac.uk/studies/study/851244?type=reshare#details){target="_blank"}
+  4. [Patient descriptions of PMS](https://datacatalogue.ukdataservice.ac.uk/studies/study/855486?type=reshare#details){target="_blank"}
+  5. [Student experiences of loneliness and social connectedness](https://datacatalogue.ukdataservice.ac.uk/studies/study/856114?type=reshare#details){target="_blank"}
+  
+
+## Developing a research question
+
+As part of writing up your qualitative report, we ask that you develop a research question to help you guide your enquiry. Below, we have some guidance on how to get started. 
+
+### Getting started with the data
+
+For this report, you are using secondary data. This means that the data have already been collected - before you start thinking about your research question, have a look at the interviews to see what was asked in the interviews. Usually, most interviews are semi-structured. This means that there are likely to be some questions asked consistently, but there will also be differences, depending on the responses by the participants. 
+
+Looking at the data before you decide on your RQ might feel a bit strange after RM1, but remember that you are not doing hypothesis-testing with qualitative designs - it is quite normal for a qualitative research question to change during the research process, and this is completely fine as you are not statistically testing for a specific effect.
+
+Be mindful that you are not making a research question that is actually one of the interview questions - your RQ should be broader than an interview question.
+
+One of the most common mistakes that students make when framing their research question in RM2 is that it is a little too 'quant' in nature. This makes perfect sense, as most of your research methods education so far in the programme has been focused on quant! However, for your qual report, your RQ should be a little different to the RQs you are used to. 
+
+Look at the following examples:
+
+1. How does poor sleep impact on wellbeing? 
+2. What is the difference in wellbeing between those who belong to university and those who don't?
+
+Both questions are a bit too quantitative in nature (i.e. 1 is causal and 2 is about a difference between groups). They would also benefit from thinking about what is being looked at, specifically (e.g. views, opinions, experiences).
+
+We'd perhaps rephrase these as follows:
+
+1.  What are students' perceptions of the relationship between sleep and wellbeing?
+2. What are online conversion students' experiences of belonging to University? How do these experiences relate to perceived wellbeing?
+
+These questions are now a bit more in line with qualitative and are specific about what they are asking in each (and also what the group of interest is). The second one covers a bit more than the first, which is why it is split into two (a main RQ and a subsidiary one)
+
+### Some tips for developing a research question
+
+  * **Communication:** Keep your research question simple and specific. If you have a very broad question, it can be helpful to break the question down into smaller sub-questions.
+  * **Type of question:**  We want the RQ to tap in to more than ‘descriptive’ experience but also offer scope to explore the ‘how’ and ‘why’ of psychological experience–Is the question asking about experiences, understanding, accounts of practice, or influencing factors?  
+  * **Practical constraints:** Can the question realistically be explored using thematic analysis and using secondary data? Try not to cover too much
+  * **Guiding:** Remember that your RQ guides your enquiry but shouldn't be restrictive  - it's not the case that you are unable to report themes that don't directly answer your RQ. 
+  * **Flexibility:** Research questions are more flexible than hypotheses-it is acceptable for the focus of the RQ to be refined during/after data collection.
+  
+### Formative feedback on your RQ
+
+If you would like to receive formative feedback on your RQ, you can submit it on [this Padlet](https://padlet.com/wilhelmiinatoivo/rm2-odl-research-questions-f844153314j3pwr2){target="_blank"} by the end of Semester 2 Week 5. Please note that RQs submitted later than that will not receive feedback, and you would need to drop into office hours instead.
+
+If you would like to discuss your RQ, you can also attend Ashley's and Wil's office hours.
+  
+
+## Qualitative report guide {#qual_report_guide}
+
+This guide is intended to help you in the write up of your qualitative project report. When writing your report, remember to use the other resources available to you:
+
+  * Your feedback for your RM1 report
+  * Chapter 13 in [Braun & Clarke (2013)](https://go.exlibris.link/5g3nFfGx){target="_blank"} is excellent support for writing up qualitative research
+  * [Braun & Clark (2022) book](https://go.exlibris.link/Z9qxllzH){target="_blank"}
+  * All the resources available in this book (particularly sections for [8. Data analysis](#ch8_data_analysis) and [11. Academic writing](#c11_writing)
+  * **25/26 cohort reading list:**: [Published articles that use a Thematic Analysis](https://rl.talis.com/3/glasgow/lists/30BEDB96-5F9D-9F9E-630A-205B91FA34AB.html?lang=en-GB#B226C8C1-1926-8328-A8A3-06DC389D9809){target="_blank"}
+  * [A helpful resource for APA formatting is OWL Purdue](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html)
+  
+Use [the assessment criteria](#ch4_AIS_report) as a checklist before you submit the report, to ensure you have addressed all points.  If you have questions post on Teams and/or visit our office hours.  All the best in writing your report.
 
 ### Required Submissions
 
@@ -117,32 +178,37 @@ Remember: just like in a quantitative report, this section shows what has been d
 
 :::
 
-## Method (suggested word count: 350-450 words)
+#### Method (suggested word count 350-450 words)
 
-The aim of the method section is to clearly report how your study was conducted – the reader should be able to re-run your research from the details provided. In this case, report details of your focus group and the qualitative analysis you used.  True 'replication' is difficult due to central role of researcher in influencing some aspects of the research such as analysis.  This is not an experiment.
+The aim of the method section is to clearly report how your study was conducted – the reader should be able to re-run your research from the details provided. In this case, contextualise the original study that your secondary data are from, report details of the original data collection, explain your process of refining and selecting the data used for your project, and describe the qualitative analysis you used. True ‘replication’ is difficult due to the central role of the researcher in influencing some aspects of the research such as analysis. This is not an experiment.
 
-### Participants & Recruitment
+Follow these subheadings for your method section for this report:
 
-How many, who were they? Include their age, gender and nationality if known. How were they sampled? Why were your participants right for the study? In this study, participants were sampled from a group of PG students as part of their course requirements.  A table of relevant participant characteristics is recommended - please see the example in [this document](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQcRFFUCP9xNj7kIGp0G2ykB4BW_w2va1gJyie43CRhDpw?e=AvfQMT)
+**Secondary data**
 
-APA Styles has more information about how to report [tables in APA format](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/tables)
+In this section you should describe the original study and give the reader context about their data collection. Understanding the specific context of each study is a key element of qualitative research, which is why it is really important for you to explain that in order for your secondary analysis to be reported openly.
 
-### Data Collection
+What was the original study about? Who conducted it? Where are the data available? You should cite your chosen dataset in APA style (do not provide a link in text) - each dataset has this information on the UK data service page under the Citation and copyright section. How many interviews did they conduct, what was the methodology they used for the interviews (you should find this information on the UK Data Service page for your chosen data set)? Who were their participants? What were the participants asked about?
 
-What materials did you use to run the focus group? What information was given to participants? How was the focus group recorded, and how long did it take? Tell the reader about your approach to this, did you follow rapport building guidelines? Refer to the focus group questions in the appendices.    
+If you have demographic information about the participants on the UK Data Service Website, you may wish to include this, but don’t worry if your chosen dataset doesn’t provide this - we don’t expect you to report any information that was not available to you.
 
-### Ethics 
+**Data selection**
 
-Include a brief account of the ethical procedures and consider both 'formal ethics' (getting consent) as well as more nuanced 'non-formal' such as the rapport building, consent as a process and reflective practices of researcher (this may warrant its own sub-heading).
+In this section you should describe your procedure for choosing your final data set. How many interviews did you choose? How did you choose the specific ones you decided to use for your analysis?
 
-### Reflexivity 
+**Ethics**
+
+The information you are able to provide in this section will depend on the information made available within the dataset. Some things you might want to comment on include: anonymisation procedures (e.g. has information been replaced or redacted), rapport building, information/consent/debrief, consent as a process. You will only be able to include information that has been made available in the dataset, so do not worry if you do not know a lot of detail.
+
+**Reflexivity**
 
 In qualitative research it is important to acknowledge the role of the researcher in interpretation of the data [(Elliot et al., 1999)](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/014466599162782){target="_blank"}. 
 
 This is where you question your own motives and attitudes in doing this project. Obviously we told you that you had to do it. But, what motivated you to choose the dataset you did? What assumptions did you hold prior to beginning the research? Had you considered issues around the topic previously? Did they match what the interviews say,  or did you disagree with them? Did this affect which interviews you chose to include in your analysis? And if so, how did this impact on your analysis? Because different people would interpret the data differently, it is useful for you to expose your own attitudes at this point so that others can see how you have impacted on the analysis. 
 
 See Braun & Clarke (2013, pp36-37, 303-304) and activities around reflexivity. Reflexive analysis should be concise for this project, perhaps around 3-4 sentences. However, you will also have to include a [reflexivity diary](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQC1PIxhBlndR74S_nfeKHNlAW5uQmGOpoRXCpLHC2fI_fI?e=aunShJ){target="_blank"} as a part of your appendices.
-### Data Analysis  
+
+**Data Analysis**
 
 In this section, explain:
 
@@ -164,7 +230,7 @@ When outlining the stages:
 - Common errors include inaccurate information (e.g. the wrong number of Phases in Braun & Clarke’s framework) and a superficial reflexivity section.
 
 :::
-
+  
 #### Analysis (suggested word count: 750-900 words)
 
 Some activities to support you with writing your Analysis section can be found in [Chapter 11](#eval_analysis).
