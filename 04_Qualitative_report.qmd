@@ -17,7 +17,7 @@ In this Chapter, we have included information about the Qualitative Report in RM
 
 -   The submission link will open no later than 5 working days before the deadline and will be found in the Assignment Submission section of the RM2 Moodle.
 
-::: {.callout-warning icon=false}
+::: {.callout-important icon=true}
 ## Proposal and the Introduction of the report
 - It is important to note that the Proposal (your rationale and research question) IS NOT the same as the Introduction for your report. It is a completely different assignment. 
 - Reusing the proposal tends to lead to poor quality introductions, which impact negatively on the grade a student is able to achieve.
