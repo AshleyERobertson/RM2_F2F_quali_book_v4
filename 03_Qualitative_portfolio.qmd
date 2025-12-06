@@ -1,6 +1,6 @@
-# Qualitative Portfolio (Group) {#ch3_AIS_portfolio}
+# Qualitative Proposal (Group) {#ch3_AIS_proposal}
 
-In this Chapter, we have included information about the Qualitative Portfolio in RM2. You can use the menu at the right hand side of this page to jump to the different sections.
+In this Chapter, we have included information about the Qualitative Proposal in RM2. You can use the menu at the right hand side of this page to jump to the different sections.
 
 ## General Information
 
@@ -8,125 +8,134 @@ In this Chapter, we have included information about the Qualitative Portfolio in
 
 -   This is a group assessment, with each group typically consisting of around 4-6 students.
 
--   The qualitative portfolio consists of three activities that should be completed and submitted in your groups.
+-   The qualitative proposal sets out your rationale and research question for your qualitative project.
 
 -   This assessment is worth 30% of your final course grade and will be a group mark.
 
--   One member of your group should submit your portfolio to Moodle by the deadline.
+-   One member of your group should submit your proposal to Moodle by the deadline.
 
 -   The submission link will open no later than 5 working days before the deadline and will be found in the Assignment Submission section of Moodle.
 
+
 ## Word Count and Formatting
 
--   The maximum word count for the qualitative portfolio is 1000 words. The word limit includes all written aspects, including any additional headings and in-text citations for Activities 1B, 2 and 3. However, it does not include the qualitative questions for Activity 1A and your reference list. There is no 10% rule, 1000 words is a strict upper limit.
+- The maximum word count for the group proposal is 1000 words. This includes all written aspects, including any headings and in-text citations, however, it does not include the reference list or the research question. There is no 10% rule, 1000 words is a strict upper limit.
 
--   Please use the template provided for the portfolio.
+- Your work should be presented in Times New Roman, 12-point font, double-spaced with 1-inch (2.54cm) margins.
 
--   Your work should be presented in Times New Roman, 12-point font, double-spaced with 1-inch (2.54cm) margins.
-
--   Your submission should be written and formatted according to APA 7th guidelines.
+- All aspects of your report should be written and formatted according to APA guidelines.
 
 ## Type of Assessment/Structure
 
--   This assessment will be a group and collaborative submission. Please note that there is a single mark for each submission, which will consist of three separate sections. All group members will receive the same mark for the submission. Sections will not, under any circumstances, be considered separately. Therefore it is vital that **all members of the group read and agree on the whole submission beforehand.**
+-   This assessment will be a group and collaborative submission. Please note that there is a single mark for each submission and all group members will receive the same mark for the submission. Sections will not, under any circumstances, be considered separately. Therefore it is vital that **all members of the group read and agree on the whole submission beforehand.**
 
--   The portfolio will consist of a) developing questions for qualitative research, and reflecting on these, b) an ethics exercise, and c) identifying issues in a recording of a focus group.
+-   The proposal will consist of: 
 
--   For this assessment, you will be required to:
+  - your research question (please just state this where asked; **not included in the word limit**)
+  - Section 1: background to the topic (suggested word count: 250 words) 
+  - Section 2: rationale for the study (suggested word count: 500 words) 
+    - 2a: why the particular topic using the particular methodology (i.e. qualitative)?
+    - 2b: why use focus groups?
+    - 2c: why recruit your specific sample?
+  - Section 3: ethical considerations (suggested word limit: 250 words) 
+  - References **not included in the word count**
 
-    -   follow the guidance for each of the three sections, ensuring that you complete the tasks as directed
-    -   reflect on the issues presented in the materials, considering how to mitigate them
-    -   link to the literature base and ethical guidelines, helping to support your points.
+Please see the [Group Proposal section](#ch10_group_proposal) for more information about how to complete this assignment.
 
-## Intended Learning Outcomes (ILOs) {#portfolio_ILOs}
+## Intended Learning Outcomes (ILOs) {#proposal_ILOs}
 
 Below, we have the ILOs for this assessment. Please note that some of the ILOs are over-arching (i.e. apply to all three sections) whereas others are specifically for a single section. To increase clarity, we have stated which section/s apply for each ILO.
 
 1.  Quality of the Knowledge and Research
 
-    -   Develop six questions that would be likely to generate open discussion and rich responses from participants (#1: Qual questions)
-    -   Correctly identify ONE ethical issue, explain its importance, and provide guidance on how to mitigate it (#2: Ethics)
-    -   Correctly identify TWO or THREE issues present in the focus group, explain why they are problematic, and discuss possible improvements (#3: Focus group)
+    -   Provide a clear and concise overview of the existing literature related to your research question.
+    -   Identify ONE ethical issue relevant for your study and demonstrate awareness of how to address it.
 
 2.  Quality of the Evaluation
 
-    -   As appropriate for each section, use academic evidence and/or reference to ethical guidelines to support your evaluation (#1: Qual questions, #2 Ethics, #3: Focus group)
-    -   As appropriate for each section, demonstrate understanding of the practical issues of running qualitative research through evaluation and reflection (#1: Qual questions, #2 Ethics, #3: Focus group)
-    -   As appropriate for each section, synthesise academic evidence from multiple perspectives to demonstrate critical thinking and to support your position (#1 Qual questions, #2 Ethics, #3 Focus group)
+    -   Use academic evidence to support your arguments
+    -   Provide a clear rationale for your particular research question, covering both topic and methodology
 
 3.  Quality of the Academic Communication
 
-    -   Write clearly and succinctly with appropriate use of paragraphs, spelling and grammar, following APA 7th guidelines for tall citations and references (#1: Qual questions, #2 Ethics, #3: Focus group)
+    -   Write clearly and succinctly with appropriate use of paragraphs, spelling and grammar, following APA 7th guidelines for all citations and references 
 
-*Please note: In the first bullet point under ILO 2 (Quality of the Evaluation), we are not asking for you to relate to ethical guidelines for each section. We are asking you to link to academic evidence/ethical guidelines (as appropriate) for each of the three sections.*
+**CURRENT ILOs**
+
+- Write clearly and succinctly with appropriate use of paragraphs, spelling and grammar
+- Reference all sources in line with APA guidelines
+
+(Feels like too much focus on APA refs)
 
 ## Assessment Support
 
--   Guidance on how to complete the group portfolio will be provided as part of the course. These will be released on Moodle, but you will also be able to find all key resources in [the Group Project Chapter](#ch10_group_project).
+-   Guidance on how to complete the group proposal will be provided as part of the course. These will be released weekly as required, but you will also be able to find all key resources on a) Moodle once they are released, and b) in [the Group Proposal Chapter](#ch10_group_proposal).
 
--   Further information about feedback can be found in [the Feedback section](#portfolio_feedback)
+-   Further information about feedback can be found in [the Feedback section](#proposal_feedback)
 
 -   Additional writing and study advice, including 1-to-1 guidance from [Student Learning Development](https://www.gla.ac.uk/myglasgow/sld/){target="_blank"}
 
--   FAQs from previous students can be found in [the FAQs Chapter](#ch13_faqs)
+-   FAQs from previous students can be found in [the FAQs Chapter](#ch12_faqs)
 
 ## How to do well in this assessment
 
--   Meet each of the intended learning outcomes - use these as a checklist for your work.
+- Meet each of the intended learning outcomes  - use these as a checklist for your work.
 
--   Consult the guidelines provided closely, as these will provide key information about what is required in this assessment.
+- Ensure that your rationale covers three areas: the topic (i.e. why will you explore this topic using qualitative?), the sample (i.e. why are you recruiting this group?), and the data collection method (i.e. why are you using focus groups?). 
 
--   Identify the key points in the literature that are relevant to each task, and relate them to your study.
+- Identify the key points in the literature that are relevant to your project, and relate them to your study. 
 
--   **Task 1: Qual questions** Develop qualitative questions that are open, clear, concise and appropriate. Take into account whether you are designing them for an interview, focus group or survey and use relevant evidence in your reflection.
+- Develop an appropriate research question(s), ensuring it is well-suited to the methodology and that it can realistically be explored in a single online focus group.
 
--   **Task 2 Ethics** Remember to link your identified ethics issue to the BPS code of Ethics.
-
--   **Task 3: Focus Group** Make sure to use evidence to support your discussion on your chosen issues. Follow the guidelines on how many issues to discuss.
-
--   Allow time to proof-read your work before submission.
-
--   Work as a group and make sure everybody reads and agrees on the final submission.
+- Allow time to proof-read your work before submission. 
 
 ## Common Mistakes
 
--   Developing questions that are closed, inappropriate, rambling or ask multiple different questions at once.
+- Not following the guidelines for the assessment
 
--   Not linking to the evidence base in your written response.
+- Considering too many ethical issues (which then means you are unable to go into enough depth)
 
--   Not following the guidance provided for the assessment.
+- Having a rationale that does not consider the sample you are recruiting, or that you are doing a focus group 
 
--   Not following the guidance on how many ethical/focus group issues to discuss.
+- Not including consideration of why qualitative approaches might be more suitable than quantitative **for this specific study** 
 
--   Providing reflections that are shallow.
+- Writing that is unclear and/or vague 
 
--   Writing that is unclear and/or vague.
+- Writing that is generic and not specific to your study
 
--   Failure to adhere to the overall word limit.
+- Failure to adhere to the word limit 
 
--   Not following the suggested word counts for each activity.
-
--   Splitting sections among members of the group and not then considering the submission as a coherent whole. It is important to remember that all members should approve the full submission beforehand.
+- Not reviewing the proposal as a group and all agreeing on it as a final product.
 
 ## How is the assessment related to the lectures for this course?
 
--   The qualitative portfolio allows you the opportunity to apply many of the concepts that you will learn about in more detail in the lectures.
+-   The qualitative proposal allows you the opportunity to apply many of the concepts that you will learn about in more detail in the lectures.
 
--   It will help give you insight to some of the practical issues related with conducting qualitative research, and considering how you might address these.
+-   It will help give you insight to some of the ethical issues related with conducting qualitative research, and considering how you might address these. 
 
 ## Why am I being assessed like this?
 
--   Completing the qualitative portfolio is very important for a) better understanding how to conduct qualitative research practically, b) giving an understanding of the processes that underlie the data you will use for your qualitative report. These are key steps to your project, and help form a strong foundation.
+- Developing a rationale and considering the ethical implications of the research we do are are both very important for a) the focus group study you go on to run later in the semester, and b) your qualitative report. These are key steps to your project, and help form a strong foundation. 
 
--   The qualitative portfolio is a group submission to reflect the fact that in most research, these decisions will be made as a team and it allows you to pool your collective knowledge to design the best study possible. Group work is an essential part of requirements for the British Psychological Society, and is a key part of this course.
+- The group proposal is a group submission to reflect the fact that in most research (and - in fact - in most workplaces), these decisions will be made as a team and it allows you to pool your collective knowledge to design the best study possible. 
+
+## How does this assessment contribute towards my employability?
+
+- This assessment helps you develop teamworking skills, such as leadership, collaboration and resolving disagreements. 
+
+- This assessment develops skills in project management, including planning, setting goals and making use of expertise within your group. 
+
+- This assessment develops awareness of ethical issues and how these can be mitigated.
 
 ## How does this relate to previous work I have completed?
 
--   You can gain informal feedback by posting on Teams, attending student office hours and attending the course leads Q&A session.
+- You will have the opportunity to receive formative feedback on your research question, in labs, from your tutor where you will receive feedback that you can carry forward to this assessment. 
 
--   Feedback on any previous written assignment will help with academic communication and using evidence to support your arguments.
+- You can gain informal feedback by posting on Teams, and attending student office hours. 
 
-Feedback on your Stage 1 and Stage 2 reports for RM1 will help you with how you link to the evidence base in your evaluation.
+- Feedback on any previous written assignment will help with academic communication and using evidence to support your arguments. 
+
+- Feedback on your stage 1 quant report for RM1 (especially in terms of whether your justification for your hypotheses was well-supported) will help you with whether your topic area and research question are well-supported by the rationale. 
 
 ## Academic integrity
 
@@ -160,11 +169,11 @@ There is no expectation that you will use generative AI, and we have no evidence
 
 For this assignment, we will consider it a misuse of generative AI if you do not acknowledge using it. Declare all uses of AI, including initial exploration of the subject, literature searching, writing and editing, corrections for grammar and spelling, as well as any other tasks from the course. Be aware that AI may not represent the best response for this task, and you need to take responsibility for everything that is submitted.
 
-## Feedback {#portfolio_feedback}
+## Feedback {#proposal_feedback}
 
 ### What type of feedback will I receive for this assessment?
 
--   You will receive written on-script comments, as well as three actionable feed-forward suggestions for work in the future (e.g. your qual report, your dissertation).
+-   You will receive written on-script comments, as well as three actionable feed-forward suggestions for work in the future (e.g. your qual report or your dissertation).
 
 -   You will also receive a rating on each of the expanded ILOs.
 
@@ -188,7 +197,7 @@ To help the discussion, when you e-mail your marker, you must complete [the feed
 
 -   We use the [Schedule A marking criteria](https://www.gla.ac.uk/media/Media_1200302_smxx.pdf){target="_blank"}, marking each assessment on a 22-point scale.
 
--   We use the [Intended Learning Outcomes presented above](#portfolio_ILOs) to mark this assessment.
+-   We use the [Intended Learning Outcomes presented above](#proposal_ILOs) to mark this assessment.
 
 ### How will feedback from this assessment help me in the future?
 

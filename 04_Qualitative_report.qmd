@@ -17,6 +17,15 @@ In this Chapter, we have included information about the Qualitative Report in RM
 
 -   The submission link will open no later than 5 working days before the deadline and will be found in the Assignment Submission section of the RM2 Moodle.
 
+::: {.callout-warning icon=false}
+## Proposal and the Introduction of the report
+- It is important to note that the Proposal (your rationale and research question) IS NOT the same as the Introduction for your report. It is a completely different assignment. 
+- Reusing the proposal tends to lead to poor quality introductions, which impact negatively on the grade a student is able to achieve.
+- If you extensively reuse the proposal in your individual report, it is likely to be considered self-plagiarism and referred to Student Conduct. Please see [guidelines on self-plagiarism](https://www.gla.ac.uk/myglasgow/sld/plagiarism/) (particularly the sixth bullet point)
+- It is fine to use the same sources and ideas as your proposal, but it should be a new piece of writing.
+- If in doubt, please ask us and we'll be happy to provide guidance!
+:::
+
 ## Word Count and Formatting
 
 -   The maximum word count for the report is 3000 words. This includes all aspects of the report with the exception of the reference list and appendices. There is no 10% rule, 3000 words is a strict upper limit.
@@ -48,13 +57,13 @@ In this Chapter, we have included information about the Qualitative Report in RM
 
 ## Assessment Support
 
--   Guidance on how to complete the qualitative report will be provided as part of the course. These will be released on Moodle, but you will also be able to find all key resources in [the Qualitative Report Chapter](#ch12_qualitative_report).
+-   Guidance on how to complete the qualitative report will be provided as part of the course. These will be released on Moodle, but you will also be able to find all key resources in [the Qualitative Report Chapter](#ch11_qualitative_report).
 
 -   Further information about feedback can be found in [the Feedback section](#report_feedback)
 
 -   Additional writing and study advice, including 1-to-1 guidance from [Student Learning Development](https://www.gla.ac.uk/myglasgow/sld/){target="_blank"}
 
--   FAQs from previous students can be found in [the FAQs Chapter](#faqs)
+-   FAQs from previous students can be found in [the FAQs Chapter](#ch12_faqs)
 
 ## How to do well in this assessment
 

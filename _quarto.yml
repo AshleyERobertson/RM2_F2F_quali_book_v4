@@ -58,13 +58,14 @@ book:
     - 06_preparation.qmd
     - 07_data_collection_processing.qmd
     - 08_analysis.qmd
-    - 09_evidencing_analysis_process.qmd
+    - 09_academic_writing.qmd
+  - part: Summative Submissions
+    chapters:
     - 10_group_proposal.qmd
     - 11_qualitative_report.qmd
     - 12_FAQs.qmd
   appendices:
   - appendix_a_showcase.qmd
-  - appendix_b_employability.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
 format:

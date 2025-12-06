@@ -1,4 +1,4 @@
-# Summative Assessment: Qualitative report {#ch7_qualitative_report}
+# Summative Assessment: Qualitative report {#ch11_qualitative_report}
 
 ## Report Writing Guide
 
@@ -68,7 +68,7 @@ The title should be included as part of the cover page. It should reflect the re
   * A Thematic Analysis *(how)* of the panic attack experiences *(what)* of primary aged children in inner city Schools in the UK *(who)*
   * Barriers and enablers to modifying sleep behaviour *(what)* in adolescents and young adults *(who)*: A qualitative investigation *(how)*
 
-#### Abstract (suggested word count: 100-150 words)
+#### Abstract (suggested word count: 100-150 words) 
 
 In an academic journal, the function of an abstract is to give readers a snapshot of the whole paper. They then use this to decide whether or not to read the full article. Therefore, you should make sure you cover all four main sections of your report, summarising them all succinctly.
 
@@ -117,32 +117,33 @@ Remember: just like in a quantitative report, this section shows what has been d
 
 :::
 
-## Method (suggested word count: 350-450 words)
+#### Method (suggested word count: 350-450 words)
 
 The aim of the method section is to clearly report how your study was conducted – the reader should be able to re-run your research from the details provided. In this case, report details of your focus group and the qualitative analysis you used.  True 'replication' is difficult due to central role of researcher in influencing some aspects of the research such as analysis.  This is not an experiment.
 
-### Participants & Recruitment
+**Participants & Recruitment**
 
 How many, who were they? Include their age, gender and nationality if known. How were they sampled? Why were your participants right for the study? In this study, participants were sampled from a group of PG students as part of their course requirements.  A table of relevant participant characteristics is recommended - please see the example in [this document](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQcRFFUCP9xNj7kIGp0G2ykB4BW_w2va1gJyie43CRhDpw?e=AvfQMT)
 
 APA Styles has more information about how to report [tables in APA format](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/tables)
 
-### Data Collection
+**Data Collection**
 
 What materials did you use to run the focus group? What information was given to participants? How was the focus group recorded, and how long did it take? Tell the reader about your approach to this, did you follow rapport building guidelines? Refer to the focus group questions in the appendices.    
 
-### Ethics 
+**Ethics**
 
 Include a brief account of the ethical procedures and consider both 'formal ethics' (getting consent) as well as more nuanced 'non-formal' such as the rapport building, consent as a process and reflective practices of researcher (this may warrant its own sub-heading).
 
-### Reflexivity 
+**Reflexivity**
 
 In qualitative research it is important to acknowledge the role of the researcher in interpretation of the data [(Elliot et al., 1999)](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/014466599162782){target="_blank"}. 
 
 This is where you question your own motives and attitudes in doing this project. Obviously we told you that you had to do it. But, what motivated you to choose the dataset you did? What assumptions did you hold prior to beginning the research? Had you considered issues around the topic previously? Did they match what the interviews say,  or did you disagree with them? Did this affect which interviews you chose to include in your analysis? And if so, how did this impact on your analysis? Because different people would interpret the data differently, it is useful for you to expose your own attitudes at this point so that others can see how you have impacted on the analysis. 
 
 See Braun & Clarke (2013, pp36-37, 303-304) and activities around reflexivity. Reflexive analysis should be concise for this project, perhaps around 3-4 sentences. However, you will also have to include a [reflexivity diary](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQC1PIxhBlndR74S_nfeKHNlAW5uQmGOpoRXCpLHC2fI_fI?e=aunShJ){target="_blank"} as a part of your appendices.
-### Data Analysis  
+
+**Data Analysis**
 
 In this section, explain:
 
@@ -166,8 +167,6 @@ When outlining the stages:
 :::
 
 #### Analysis (suggested word count: 750-900 words)
-
-Some activities to support you with writing your Analysis section can be found in [Chapter 11](#eval_analysis).
 
 The analysis section is where you present the evidence you’ve collected. It works like a Results section in a quantitative report.
 
@@ -335,7 +334,7 @@ The appendices can often hold a lot of information.  In the qualitative report w
 
   * **Required**: A list of the interviews you have chosen and a link to the original dataset (do not include the transcripts themselves) 
   * **Required**: [A reflexivity diary](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQC1PIxhBlndR74S_nfeKHNlAW5uQmGOpoRXCpLHC2fI_fI?e=aunShJ){target="_blank"} that you have developed over the course of completing your analysis. Please use the template linked here to complete your diary.
-   * **Only if available**: You might have a list of the interview questions (if easily obtained from your transcripts or study documentation on UK data service) 
+   * **Required**: You might have a list of the interview questions (if easily obtained from your transcripts or study documentation on UK data service) 
    * There may be other appendices you choose to include. If in doubt, please ask and we will do our best to help. 
 
 
