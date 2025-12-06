@@ -1,0 +1,126 @@
+# Multiple Choice Questions (Individual) {#ch2_mcqs}
+
+In this Chapter, we have included information about the Multiple Choice Quiz in RM2. You can use the menu at the right hand side of this page to jump to the different sections.
+
+## General Information
+
+-   The deadline for this assessment can be found under 'Deadlines' within the 'Course Information' section on the RM2 Moodle.
+
+-   This assessment is worth 10% of your final course grade.
+
+**Please note:** The MCQ will open up one week before the deadline. Please ensure you have reviewed the Week 1-14 lecture content before taking the MCQ.
+
+## Type of Assessment/Structure
+
+-   All the information needed to answer the Multiple choice questions will have been covered in the research methods lectures between Weeks 1 and 14.
+
+    -   The MCQ will assess different types of content:
+        -   Knowledge of quantitative content covered in the lectures
+        -   Understanding of different quantitative research designs\
+        -   Knowledge of qualitative content covered in the lectures
+
+-   The MCQ will be provided through a submission link on Moodle. The submission link will be made available one week before the deadline.
+
+-   There are 22 questions and each MCQ will have four options - the answer will be one of these.
+
+-   Each question will be presented on a single page. There are many reasons for this, including that having multiple questions on a page increases moodle loading times, slowing it down.
+
+-   You will have 40 minutes to complete the MCQ. If you are registered with disability services for extra time it should show longer than this. If the quiz does not display additional completion time when you click on the link, please contact Admin or Ashley/Wil to let them know.
+
+## Assessment Support
+
+-   All the information needed to answer the research methods questions will have been covered in the research methods lectures.
+
+-   The course leads provide practice questions for each of the lectures as well as a practice MCQ. You can find these in the 'Formative Activities' section on Moodle.
+
+-   Further information about feedback can be found in [the Feedback section](#MCQ_feedback)
+
+## How to do well in this assessment
+
+-   Read each question carefully.
+
+-   Ensure you are up to date on all lectures and have completed all the activities for each week.
+
+-   Ensure that you leave yourself enough time to complete the MCQ in a single sitting.
+
+-   Complete the essential reading for each lecture.
+
+-   Engage in opportunities to practice MCQ questions by completing the formative mini quizzes.
+
+## Common Mistakes
+
+-   Leaving the lecture content and reading to build up (i.e. not keeping up with it as you go along).
+
+-   Not reading the question carefully.
+
+-   Leaving some questions unanswered.
+
+## How is the assessment related to the lectures for this course?
+
+-   The MCQs test your understanding of statistical concepts and how to analyse and interpret data according to the methods presented in the lectures.
+
+-   The MCQs test your understanding of research designs in quantitative research.
+
+-   The MCQs also test your understanding of the qualitative content covered in the lectures.
+
+## Why am I being assessed like this?
+
+-   The MCQs assess your understanding of the course content, helping you to actively engage with the materials. These are important skills for psychological researchers to develop.
+
+-   Engaging with the material on the course will help build on the strong foundation of Research Methods developed thus far, helping to set you up for your dissertation.
+
+## How does this relate to previous work I have completed?
+
+-   Feedback from formative mini quizzes based on the lectures and essential reading will help you with this assignment
+
+## Academic integrity
+
+Please note that when submitting your work for assessment we accept it on the understanding that it is your own effort and work and unique to the set assignment.
+
+To support you in understanding what plagiarism is and in avoiding it, please read the following resources that the University provides:
+
+-   [SRC Advice and Support](https://www.glasgowunisrc.org/advice/){target="_blank"}
+-   [Code of Student Conduct](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2025-26/feesandgeneral/studentsupportandconductmatters/reg33/){target="_blank"} and [Plagiarism & Academic Integrity Code](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2025-26/feesandgeneral/studentsupportandconductmatters/reg32/){target="_blank"}
+-   [Avoiding plagiarism and engage in good academic practice](https://moodle.gla.ac.uk/course/view.php?id=13038){target="_blank"} (a Moodle course you can self-enrol in)
+-   [Student support for AI, plagiarism and digital skills](https://www.gla.ac.uk/myglasgow/sld/){.external target="_blank"}
+
+**In summary:**
+
+All work submitted by students for assessment is accepted on the understanding that it is the student's own effort. This means students' work should not contain:
+
+-   plagiarised content; or
+-   content that has been produced by another person, website, software or Artificial intelligence (AI) tool (except where AI use is explicitly permitted); or
+-   content that has been prepared jointly with any other person (except where this is explicitly permitted); or
+-   content that has already been submitted for assessment by the student at this or any other institution, known as self-plagiarism.
+
+**Statement on groupwork:** We encourage students to form a study group and peer feedback groups. However, this assignment is not a group work assignment, so your work must be your own individual contribution. If you make a study group or a peer review group, avoid sharing final drafts or near final drafts of your work.
+
+**University statement on AI:** The University of Glasgow recognises the value of generative artificial intelligence (AI) tools in academic and professional workplaces.The university has a responsibility to ensure that students acquire the necessary knowledge, skills, and other competencies associated within their discipline. The Student Learning Development service provides general guidance and support for students on the use of generative AI. Each item of assessment in your courses will have specific guidance about the use of AI. Where generative AI restrictions are in place, they have been carefully designed to maximise your learning opportunity whilst discouraging reliance on generative AI in a way that undermines your learning or development of good professional practice and graduate attributes.
+
+**Statement on use of generative AI:** The current assessment is summative, meaning that it contributes to your course grade. **The purpose of this assessment is to provide an opportunity to test your understanding of the lecture content in the course. You can use AI as a learning assistant to help understand lecture content and to generate practice MCQs.** If you want to use translation software (i.e., you write the assignment in another language first) be cautious as the vocabulary and syntax produced by generative AI is not generally in keeping with the current language use and vocabulary in our field and can result in subtle misunderstanding in communication.
+
+**Avoid using AI to answer the questions because your understanding is a skill you need to develop.**
+
+There is no expectation that you will use generative AI, and we have no evidence that its use will confer an advantage for this assessment. If you do use generative AI, you MUST acknowledge use in-text via citations and referencing and in an appendix with a declaration of AI use as appropriate. If you choose to use it, we recommend that you use the Microsoft Edge Browser with Copilot and sign in with your university account using the multi-factor authentication to ensure that your work is private and secure. **Please keep a log of your use of AI as we may ask to see this.**
+
+For this assignment, we will consider it a misuse of generative AI if you do not acknowledge using it. Declare all uses of AI, including initial exploration of the subject, literature searching, writing and editing, corrections for grammar and spelling, as well as any other tasks from the course. Be aware that AI may not represent the best response for this task, and you need to take responsibility for everything that is submitted.
+
+## Feedback {#MCQ_feedback}
+
+### How is this assessment graded?
+
+-   The MCQ will consist of 22 questions, each with four response options. Each question is worth one point.
+
+-   The marking will be automatically computed on Moodle, and grades downloaded by staff.
+
+### How will feedback from this assessment help me in the future?
+
+-   This assessment will help you consolidate your knowledge of the statistical and qualitative content covered within the lecture materials. This will be useful in any future work that requires working with quantitative or qualitative data such as your dissertation project or future postgraduate courses.
+
+### What type of feedback will I receive for this assessment?
+
+-   After the marking has been completed, you will find out a) whether you answered each question correctly or not and b) what the correct answer was for each question
+
+### Who assessed my work?
+
+-   The worksheets will be graded using computer-assisted marking. The marking will be done automatically using Moodle.

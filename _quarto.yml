@@ -8,7 +8,9 @@ execute:
 book:
   title: RM2 F2F Qualitative Project Resources
   subtitle: ''
-  author: Ashley Robertson & Wil Toivo
+  author: "Ashley Robertson & Wil Toivo"
+  date: today
+  date-format: "D MMMM YYYY"
   doi: ''
   license: CC-BY
   description: This book contains resources for the qualitative project in Research Methods 2
@@ -44,14 +46,22 @@ book:
   page-footer:  CC-BY (2025) Ashley Robertson & Wil Toivo
   chapters:
   - index.qmd
-  - 01_labs.qmd
-  - 02_preparation.qmd
-  - 03_data_collection_processing.qmd
-  - 04_analysis.qmd
-  - 05_evidencing_analysis_process.qmd
-  - 06_group_proposal.qmd
-  - 07_qualitative_report.qmd
-  - 08_FAQs.qmd
+  - part: Assessment Information
+    chapters:
+    - 01_Data_skills.qmd
+    - 02_Multiple_choice_questions.qmd
+    - 03_Qualitative_portfolio.qmd
+    - 04_Qualitative_report.qmd
+  - part: Qualitative Project Information
+    chapters:
+    - 05_labs.qmd
+    - 06_preparation.qmd
+    - 07_data_collection_processing.qmd
+    - 08_analysis.qmd
+    - 09_evidencing_analysis_process.qmd
+    - 10_group_proposal.qmd
+    - 11_qualitative_report.qmd
+    - 12_FAQs.qmd
   appendices:
   - appendix_a_showcase.qmd
   - appendix_b_employability.qmd
