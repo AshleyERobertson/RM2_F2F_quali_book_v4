@@ -18,14 +18,6 @@ The Labs will be on the following topics:
 
 ## Week 1 Lab 1: What is qualitative research?
 
- - - - - 
-
-Key resources: 
-
-[Project timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EYepOBxHkIxKuULVqBmvGiMBk7KH4FlUNGMLWlpYNc7d4Q?e=6rgfh2)
-
- - - - - 
-
 In Lab 1, we will introduce you to qualitative research, and consider the differences between qualitative and quantitative. You will work together in groups to complete two activities. 
 
 ### Lab 1 Activity 1: Differences between qualitative and quantitative studies
@@ -64,30 +56,17 @@ Choose whether a quantitative or qualitative design is most appropriate for each
 
 ## Week 2 Lab 2: Groupwork and RQs
 
- - - - - 
+In Lab 2, you will form into the groups that you will  be in for the rest of the semester. You will be able to find your group in the spreadsheet at the bottom of the [Week 2 Moodle](https://moodle.gla.ac.uk/course/view.php?id=49245&section=4) (please note the spreadsheet will only become available once it has been released at the start of Week 2). In these groups, you will a) design, run and transcribe a focus group with a group in your lab as your participants, b) participate in another group's focus group, and c) write a qualitative group proposal. 
 
-Key resources: 
-
-[Topic Guide](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-preparation-group.html#topic-guide)
-
-[Group Agreement Info](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-preparation-group.html#group-agreement-and-task-allocation)
-
-[Group Agreement and task allocation template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBgvV1_YeuUcNhWi9z_996oQ?e=BkLLbx)
-
-
- - - - - 
-
-In Lab 2, you will form into the groups that you will  be in for the rest of the semester. You will be able to find your group in the spreadsheet at the bottom of the [Week 2 Moodle](https://moodle.gla.ac.uk/course/view.php?id=38155&section=3) (please note the spreadsheet will only become available once it has been released at the start of Week 2). In these groups, you will a) design, run and transcribe a focus group with a group in your lab as your participants, b) participate in another group's focus group, and c) write a qualitative group proposal. 
-
-In today's lab, there will be some time spent getting to know each other, then we will ask you to develop a group agreement (see below). You should also discuss the [different topics](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-preparation-group.html#topic-guide) that you can choose for your project, seeing whether any stand out as preferred options among the group.
+In today's lab, there will be some time spent getting to know each other, then we will ask you to develop a group agreement (see below). You should also discuss the different topics that you can choose for your project (see **Chapter 6.3** in this book), seeing whether any stand out as preferred options among the group.
 
 ### Lab 2 Activity 1: Group Agreements and Task Allocation
 
 We appreciate that group work can be challenging and we want to support you to have an enjoyable and educational group work experience. To that end, we would like each group to create a group agreement that all members sign. The purpose of this is for the group to come together and establish common ground and rules that each of the group members is committed to. 
 
-After you have all introduced yourselves, download the [group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBgvV1_YeuUcNhWi9z_996oQ?e=BkLLbx). Then look at the list of potential items to include. These are provided within the template document itself, as well as in **Chapter 2.2.1.** As a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. 
+After you have all introduced yourselves, download the [group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBgvV1_YeuUcNhWi9z_996oQ?e=BkLLbx). Then look at the list of potential items to include. These are provided within the template document itself, as well as in **Chapter 6.2.1.** As a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. 
 
-After this, you should allocate tasks for the **group proposal** among the members of the group. A starter list of tasks is provided in the template as well as in **Chapter 2.2.2**. The task allocation must be uploaded in the same document as the signed group agreement.
+After this, you should allocate tasks for the **group proposal** among the members of the group. A starter list of tasks is provided in the template as well as in **Chapter 6.2.2**. The task allocation must be uploaded in the same document as the signed group agreement.
 
 Work on a collaborative document on OneDrive to create your group work agreement and allocation of tasks for the group proposal. Once the group is happy with their agreement, *each group member* should sign it and submit it to Moodle individually (Formative Assessment Section). You can either all sign the same document and upload a copy each, or you can sign separately and upload the copy that only you have signed. Each person should submit their signed group agreement and task allocation before their lab in Week 3. 
 
@@ -97,17 +76,11 @@ Once the deadline has passed, we will be in touch with any groups where any memb
 
 In your groups, have a look at the Topic Guide. There are three topics to choose from: Green Spaces, Belonging and Mental Health. 
 
-Have a look over the topics - are there any that your group are particularly drawn towards at this stage? You might know immediately what you'd like to focus on, or might need to discuss all of them in your group. 
+As part of the group allocation, you will have been asked what topic you preferred. Are you all in agreement? Either way, have a look over the topics together. You might know immediately what you'd like to focus on, or might need to discuss all of them in your group. 
 
 Once you've chosen a topic (you might not manage this in the lab, which is fine!), have a think about possible research questions. You will need to have a finalised RQ for your group proposal, which is submitted in Week 5. 
 
 ## Week 3 Lab 3: Ethics
-
- - - - - 
-
-Key resources: 
-
- - - - - 
 
 In Lab 3, we will cover ethics and you will complete two activities within your groups. 
 
@@ -126,9 +99,7 @@ this correctly, our interview schedule might contain questions that are inapprop
 
 **Data Collection**
 
-*This might look like:* Data collection is much less likely to be anonymous, as typically in-
-person or online focus groups or interviews are held. Samples are small, and
-participants may already be known to the researcher.
+*This might look like:* Data collection is much less likely to be anonymous, as typically in-person or online focus groups or interviews are held. Samples are small, and participants may already be known to the researcher.
 
 *Why might this be an issue:* There are possible issues of confidentiality, anonymity
 (these will be discussed further down) and bias. Our preconceptions might affect the
@@ -165,10 +136,7 @@ and the situations and circumstances they describe.
 *This might look like:* In a focus group or interview, people might be very open with us,
 and tell us things about their life, and the lives of others.
 
-*Why might this be an issue:* We have a duty of care to keep anything that comes out in a
-focus group/interview confidential (unless they disclose a crime or someone is judged
-to be at risk). It’s also vital that the rest of the focus group members keep the
-information confidential too.
+*Why might this be an issue:* We have a duty of care to keep anything that comes out in a focus group/interview confidential (unless they disclose a crime or someone is judged to be at risk). It’s also vital that the rest of the focus group members keep the information confidential too.
 
 
 ### Lab 3 Activity 1: Mitatigation of the issues
@@ -236,24 +204,16 @@ negatively?”
 
 ## Week 4 Lab 4: Developing Focus Group questions
 
- - - - - 
-
-Key resources:
-
-[Bank of questions for the focus groups](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html#collecting-data-questions)
-
- - - - - 
-
-In Lab 4, we will work on developing questions for your focus group. We have made a [bank of questions](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html#collecting-data-questions) available to you. Please select any questions that you would like to use and then adapt them to suit your research question. 
+In Lab 4, we will work on developing questions for your focus group. We have made a bank of questions available to you. You can find these in Chapter 7.2 of this book. Please select any questions that you would like to use and then adapt them to suit your research question. 
 
 If you have developed a research question that means you need different focus group questions to those in the question bank,then you may need to make up some new questions to go into your focus group schedule. 
 
 If you develop new questions that have not been adapted from the bank of questions provided, please ensure you do the following:
 
-1. Questions must be developed using the guidance provided to you in this lab
+1. Questions must be developed using the guidance provided to you in this lab and the information provided in Chapter 7.3 of this book.
 2. You **must** attend your tutor's office hours and ask for feedback on your questions. 
 
-If, however, you only use questions from the bank that is supplied or make minor tweaks, you are not *required* to formally discuss these with your tutor (although you are welcome to do so if you have specific questions that you want to ask). You might, for example, want to check the order that you present the questions in. 
+If, however, you only use questions from the bank that is supplied or make minor tweaks, you are not *required* to formally discuss these with your tutor (although you are welcome to do so if you have specific questions that you want to ask). 
 
 ### Lab 4 Activity 1: Research Questions
 
@@ -299,29 +259,15 @@ Have a look at these poorly written fictional focus group questions. The researc
 
 ## Week 5 Lab 5: Running a Focus Group
 
- - - - - 
-
-Key resources:
-
-[Checklist for focus group](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EaGHiB_KPM1Jgn22rGnqVJ8BeLmxD2D2dDtiEBC0bE0FZQ?e=nRvCZQ) 
-
-[Task Allocation for focus group](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-preparation-group.html#focus-group-task-allocation-see-lab-5)
-
-[Information Sheet template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EXjnUsZm6aFGhI5mX0E3tqoB8aI3vJRZCP7h4eAAfTqi7g?e=wJVIEz)
-
-[Consent Form template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ETFRTON4cnROjUYI6WGc2wIBzjmRkzk8kpDdH79asr27BQ?e=TBJ4S7)
-
-
- - - - - 
 
 In this week's lab, we will cover some key things that you will need to know in order to run a focus group. We also have some activities for you to do in groups. 
 
 ### Lab 5 Activity 1: Allocation of tasks
 
 
-Look at the list of [focus group tasks](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-preparation-group.html#focus-group-task-allocation-see-lab-5) in the Group project: Preparation chapter of this book.
+Look at the list of [focus group tasks](https://ashleyerobertson.github.io/RM2_F2F_quali_book_v4/06_preparation.html#focus-group-task-allocation-see-lab-5) in the Group project: Preparation chapter of this book (Chapter 6.2.3).
 
-Allocate tasks between your group members (write this down and make sure everybody has a copy of it). If you are missing group members, make sure to catch up with them and discuss task allocation. 
+Allocate tasks between your group members (write this down and make sure everybody has a copy of it). If you are missing group members, make sure to catch up with them to discuss task allocation. 
 
 ### Lab 5 Activity 2: How would you manage these situations?
 
@@ -341,14 +287,6 @@ Note down some suggestions among the group about how you might manage these situ
 
 
 ## Week 7 Lab 6: Data processing and reflection
-
- - - - - 
-
-Key resources:
-
-[Reflection document](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ES-Vc-s5kxZGo8wqcvvfmawBjrTG_q6WpNtTT18StzwS8w?e=aY8Pmx)
-
- - - - - 
 
 ### Lab 6 Activity 1: Pseudonymise the transcript
 
@@ -425,14 +363,6 @@ This study offers insights into broader psychological phenomena and practical in
 
 ## Week 9 Lab 8: Analysis (coding)
 
- - - - - 
-
-Key resources:
-
-[Trancript to code](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ETYhcd1SnIRCmeM-gBPyGAEBVyitlNYkOMhPVrih1m8N4w?e=HHZ0LQ)
-
- - - - -
-
 In this week's lab, we are going to focus on coding (i.e. step 2 of Thematic Analysis). We have one activity to support you in the coding stage of your data analysis. 
 
 
@@ -473,14 +403,6 @@ Erm, I don't think we have the capacity to do any more. I think, erm, it'd be gr
 
 
 ## Week 10 Lab 9: Analysis (themes)
-
- - - - - 
-
-Key resources:
-
-[Zombie Apocalypse transcript](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdAZ7naOqiFNtrfDFX-QanABpgJz6sJo9493G68rXKyCIw?e=yBhaqi)
-
- - - - - 
 
 In today's lab (which is our last one in RM2), we have two activities to support you with developing themes using Thematic analysis. If there is time, you will also have the opportunity to get started on your analysis in Activity 3.
 
@@ -538,14 +460,3 @@ Participants said that they used social media but that it was only positive at c
 John tells us here that he deleted all his apps, because they all went ‘downhill’. Tik Tok was helpful during the first lockdown, but not after it.
 
 :::
-
-
-### Lab 9 Activity 3: Reflexivity
-
-This activity is designed to help you with the reflexivity section in your report.Individually, take notes on the following, using it to help you when you come to write this section:
- 
-
-- Are you an insider or outsider researcher (i.e. do you belong to the group you are researching or not?
-- What implications might this have for how you ran your study and how you analysed it?
-- What preconceptions or expectations did you have about the topic before you ran your focus group?
-- Did what your participants say agree or disagree? What effect did this have on the way you approached a) data collection or b) data analysis? 

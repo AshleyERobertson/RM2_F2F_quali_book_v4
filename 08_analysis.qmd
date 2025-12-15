@@ -2,9 +2,9 @@
 
 ## Data analysis
 
-This chapter has activities to support you with Thematic Analysis. This chapter, alongside with Ashley's lectures, will talk you through the six phases required for TA; we advise using Braun & Clarke (2022) to structure your data analysis. This can be accessed [**through the library**](https://go.exlibris.link/Z9qxllzH). There is also a good overview in Braun & Clarke (2013), which is on the reading list.
+This chapter has activities to support you with Thematic Analysis. This chapter, alongside with Ashley's lectures, will talk you through the six phases required for TA; we advise using Braun & Clarke (2021) to structure your data analysis. This can be accessed [**through the library**](https://go.exlibris.link/Z9qxllzH). There is also a good overview in Braun & Clarke (2013), which is on the reading list.
 
-**Overview of the phases of TA** (Page numbers refer to the Braun & Clarke (2022) book)
+**Overview of the phases of TA** (Page numbers refer to the Braun & Clarke (2021) book)
 
   1. Familiarisation with the data (p.42)
   2. Generating initial codes (p.59)
@@ -16,7 +16,7 @@ This chapter has activities to support you with Thematic Analysis. This chapter,
 
 ## Coding (steps 1-2)
 
-Here, we'll focus on Phases 1 and 2 of the process. Familiarisation starts on p.42 and Coding starts on p.59 of the Braun & Clarke (2022) book. We also covered how to do Phases 1 and 2 of the analysis in the Thematic Analysis lecture.
+Here, we'll focus on Phases 1 and 2 of the process. Familiarisation starts on p.42 and Coding starts on p.59 of the Braun & Clarke (2021) book. We also covered how to do Phases 1 and 2 of the analysis in the Thematic Analysis lecture.
 
 ### Phase 1: Familiarisation (p.42)
 
@@ -162,7 +162,7 @@ Thematic Analysis allows you to explore *semantic* or *latent* themes (or both) 
 
 This is an **optional** activity to help you discriminate between themes and codes. 
 
-Read [this handout](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ESNH19f8vxJFoNgOMxZjP_wB1y-fKWuxVythoLPYLAHJdA?e=CPhrx4). This is an activity from Braun & Clarke (2022), which has data collected via online survey. The initial RQ was 'What are New Zealand men and women’s views of men’s body hair?'.
+Read [this handout](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ESNH19f8vxJFoNgOMxZjP_wB1y-fKWuxVythoLPYLAHJdA?e=CPhrx4). This is an activity from Braun & Clarke (2021), which has data collected via online survey. The initial RQ was 'What are New Zealand men and women’s views of men’s body hair?'.
 
 - Decide whether each label is a **code** or a **theme**
 - There is no absolute distinction, but:

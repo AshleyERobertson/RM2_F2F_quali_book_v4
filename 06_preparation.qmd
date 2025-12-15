@@ -13,7 +13,7 @@ The qualitative project is broken down as follows:
 - In your groups, you will write a group proposal detailing the key literature for your project, as well as why it is important to conduct. This is a group assessment and is worth 30% of RM2. 
 - In your groups, you will choose a topic, then finalise your research question. You will then choose questions you want to ask your participants. You will be allocated another group **within your lab** to act as your participants. In turn, you will be the participants for another group within your lab. 
 - In your groups, you will hold a focus group, which will be held online using Microsoft Teams. You will then prepare your focus group transcript and anonymise it.
-- From this point on, the remainder of the project is conducted individually, with you completing analysis and writing up your report (worth 50% of RM2) on your own. Please note that you **MUST** use thematic analysis (Braun & Clarke, 2006) for your analysis. You are not allowed to use any other forms of analysis (e.g. IPA). 
+- From this point on, the remainder of the project is conducted individually, with you completing analysis and writing up your report (worth 50% of RM2) on your own. Please note that you **MUST** use thematic analysis (Braun & Clarke, 2021) for your analysis. You are not allowed to use any other forms of analysis (e.g. IPA). 
 
 ### Suggested Project timeline
 
@@ -92,8 +92,8 @@ In lab 5, we will ask you to allocate tasks for running the focus group. Please 
 **Prep work and getting materials together**
 
 - Set up a shared version of the ‘checklist’ to ensure that you complete all tasks required for the focus group. This checklist contains the same list of tasks as listed here, but it is important that you keep a record of what has been completed.
-- Read over the [‘data collection’](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html) chapter in the Qualitative book 
-- Choose questions from the [question bank](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html#collecting-data-questions), adapting them as required. If you decide to make any new questions, these must be discussed in office hours with your tutor before you collect data. 
+- Read over the ‘data collection’ chapter (Chapter 7) in this book.
+- Choose questions from the Question bank (Chapter 7.2), adapting them as required. If you decide to make any new questions, these must be discussed in office hours with your tutor before you collect data. 
 - Pilot your questions (i.e. ask someone to look over them for clarity and to ensure they make sense) 
 - Adapt the following documents for your study: 
   + Information sheet 
