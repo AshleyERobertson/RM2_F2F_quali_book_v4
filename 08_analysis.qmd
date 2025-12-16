@@ -42,24 +42,14 @@ Insert labels beside quotes - what is interesting about the quote? What does it 
 
 ### How to actually do the coding (logistically)?
 
-There are many different ways to approach this - find the way that works for you! There are also different software to conduct thematic analysis (such as NVivo); you are welcome to use these if you wish, but due to the introductory nature of this course we don't have guidance for using them, so you need to do learn it independently, should you want to use one.
+While there are many different ways to approach this, **for your RM2 report you must code using Microsoft Word by adding comments**. This is so that we can see your process of coding with time stamps on the comments (we ask you to submit your full coding as a part of your [qualitative report submission document](https://ashleyerobertson.github.io/RM2_F2F_quali_book_v4/11_qualitative_report.html#submission-2-step-by-step-evidence-of-the-analysis-process). Do not use any other coding software or approach.
 
-Option 1: Hand-coding
-```{r img-handcoded, echo=FALSE, fig.cap="Example of a hand-coded transcript"}
-knitr::include_graphics("images/handcoded.jpg")
-```
-
-Option 2: Code using Word, by adding comments
+Code using Word, by adding comments
 ```{r img-commentcoded, echo=FALSE, fig.cap="Example of a transcript coded using comments on Microsoft Word"}
 knitr::include_graphics("images/commentcoded.png")
 ```
 
-Option 3: Construct a table for your codes and quotes. This is an example from Braun & Clarke (2013)
-```{r img-tablecoded, echo=FALSE, fig.cap="Example of a transcript coded using a table"}
-knitr::include_graphics("images/tablecoded.png")
-```
-
-
+If you are doing a qualitative dissertation, you may want to use a different coding approach or software such a NVivo - please make sure to discuss this with your supervisor.
 
 ## Developing themes (Phases 3-6)
 
@@ -138,7 +128,7 @@ When doing your thematic analysis, it is important to develop a narrative and go
 
 Thematic Analysis requires an active approach from an analyst. It is your role to make sense of the data and to present this in a coherent, understandable and accessible way to the reader. You will take these 'patterns of meaning' and make sense of/interpret them, and convey these to the reader.
 
-One point to note: Remember that themes do not emerge - this suggests that they are lying in wait for you to discover them, and that the same themes would come up regardless of the analyst. This is not the case - your experiences and interpretations will affect the themes you end up with.
+One point to note: Remember that **themes do not emerge** - this suggests that they are lying in wait for you to discover them, and that the same themes would come up regardless of the analyst. This is not the case - your experiences and interpretations will affect the themes you end up with.
 
 When you present your data in the analysis section, you will have a) your list of themes and b) your quotes. It is your job to combine these with analytical commentary, in order to tell the story of your data. It's not enough to present the themes and then back these up with quotes - your job is to add in a narrative that brings the themes and the evidence (i.e. quotes) together.
 
@@ -216,7 +206,7 @@ Ashley has recorded **optional** research skills sessions on different aspects o
 
 ### Thinking about reflexivity
 
-We ask you to think about your own position in the research as part of your RM2 report (there is a section in the methods!).
+We ask you to think about your own position in the research as part of your RM2 report (there is a reflexive diary and a section in the methods!).
 
 This can be quite tricky to do, but is very important for qualitative research. Some suggestions to get you started:
 

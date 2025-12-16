@@ -9,7 +9,7 @@ This section is intended to help you in the write up of your qualitative project
 - The feedback you received from RM1
 - [Braun & Clark (2006) paper](https://www.tandfonline.com/doi/abs/10.1191/1478088706QP063OA)
 - Helpful resources for APA formatting are [OWL Purdue](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html) and [APA Style](https://apastyle.apa.org/style-grammar-guidelines)
-- We have developed a resource of [Frequently Asked Questions](#ch8_FAQs) from previous cohorts
+- We have developed a resource of [Frequently Asked Questions](#ch12_FAQs) from previous cohorts
 - [Student Learning Development](https://www.gla.ac.uk/myglasgow/sld/) have useful information about writing for students
 
 If you have further questions, post on Teams and/or visit your tutor's office hours.  All the best in writing your report.
@@ -29,7 +29,7 @@ Two separate submissions are required for this report:
     - Appendices (does not count towards word limit)
    
     
-- **Submission 2** should contain the required information about the process of your analysis, using the template  provided. Submission 2 does not count towards the word limit. Please note that Phase 6 is not included as this is what you include in your Analysis section
+- **Submission 2** should contain the required information about the process of your analysis, using the [template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQBqAG8H6Av_QJKLCWbynshmATiH8H20vAQAIhZ5ZfHF-Js?e=3WqVog)  provided. Submission 2 does not count towards the word limit. Please note that Phase 6 is not included as this is what you include in your Analysis section
     - Phase 1 (Familiarisation)
     - Phase 2 (Doing Coding)
     - Phase 3 (Generating Initial Themes)
@@ -82,15 +82,13 @@ Aim to summarise all sections of the report in 150 words, including;  1) what do
 
 #### Introduction (suggested word count 750-850 words)
 
-Some activities to support you with writing your Analysis section can be found in [Chapter 11](#eval_intro).
+Some activities to support you with writing your introduction section can be found in Chapter 9 and lab 7.
 
 The introduction should give readers enough background to understand your rationale for further research, whether your study is qualitative or quantitative. Provide a clear, critical review of the most relevant published research and highlight the key issues and debates in the field. Use these to build a logical argument for your study.
 
 Follow the APA-style funnel structure: begin with a broad overview of the topic, then narrow the focus until you reach your specific rationale and research question(s).
 
-Because your word count is limited, focus on recent and directly relevant studies—especially the latest qualitative research in this specific area. Show how your project builds on the most recent work to strengthen your rationale. Remember to cite all sources used, including government reports, websites, and media items.
-
-A resource for helping you to develop evaluation in your introductions can be found at the start of [Chapter 11](#ch11_writing).
+Because your word count is limited, focus on recent and directly relevant studies—especially the latest research in this specific area. Show how your project builds on the most recent work to strengthen your rationale. Remember to cite all sources used, including government reports, websites, and media items.
 
 ```{r img-intro, echo=FALSE, fig.cap="Broad-to-narrow structure of an introduction"}
 knitr::include_graphics("images/intro.png")
@@ -123,9 +121,7 @@ The aim of the method section is to clearly report how your study was conducted 
 
 **Participants & Recruitment**
 
-How many, who were they? Include their age, gender and nationality if known. How were they sampled? Why were your participants right for the study? In this study, participants were sampled from a group of PG students as part of their course requirements.  A table of relevant participant characteristics is recommended - please see the example in [this document](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQcRFFUCP9xNj7kIGp0G2ykB4BW_w2va1gJyie43CRhDpw?e=AvfQMT)
-
-APA Styles has more information about how to report [tables in APA format](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/tables)
+How many, who were they? Include their age, gender and nationality if known. How were they sampled? Why were your participants right for the study? In this study, participants were sampled from a group of PG students as part of their course requirements.  A table of relevant participant characteristics is recommended. APA Styles has more information about how to report [tables in APA format](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/tables)
 
 **Data Collection**
 
@@ -141,13 +137,13 @@ In qualitative research it is important to acknowledge the role of the researche
 
 This is where you question your own motives and attitudes in doing this project. Obviously we told you that you had to do it. But, what motivated you to choose the dataset you did? What assumptions did you hold prior to beginning the research? Had you considered issues around the topic previously? Did they match what the interviews say,  or did you disagree with them? Did this affect which interviews you chose to include in your analysis? And if so, how did this impact on your analysis? Because different people would interpret the data differently, it is useful for you to expose your own attitudes at this point so that others can see how you have impacted on the analysis. 
 
-See Braun & Clarke (2013, pp36-37, 303-304) and activities around reflexivity. Reflexive analysis should be concise for this project, perhaps around 3-4 sentences. However, you will also have to include a [reflexivity diary](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQC1PIxhBlndR74S_nfeKHNlAW5uQmGOpoRXCpLHC2fI_fI?e=aunShJ){target="_blank"} as a part of your appendices.
+See Braun & Clarke (2013, pp36-37, 303-304) and activities around reflexivity. Reflexive analysis should be concise for this project, perhaps around 3-4 sentences. However, you will also have to include a [reflexivity diary](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQC1PIxhBlndR74S_nfeKHNlAW5uQmGOpoRXCpLHC2fI_fI?e=aunShJ){target="_blank"} as a part of your appendices - you can use your notes from this to help write the reflexivity section and give some examples, but please note the section should be much shorter than your full reflexivity diary.
 
 **Data Analysis**
 
 In this section, explain:
 
-- What analysis method you used and your theoretical approach (see the 'Thinking about theory' mini-lecture for a reminder).
+- What analysis method you used and your theoretical approach.
 - The stages of your qualitative analysis. Be clear and specific - qualitative work is sometimes criticised for being vague. Use recognised guidelines (e.g., Smith for IPA; Braun & Clarke for Reflexive Thematic Analysis).
 
 When outlining the stages:
@@ -240,7 +236,7 @@ This kind of deeper interpretation goes beyond the superficial to show the reade
 
 #### Discussion (suggested word count: 750-850 words)
 
-Some activities to support you with developing evaluation in your Discussion section can be found in [Chapter 11](#eval_discussion).
+Some activities to support you with developing evaluation in your Discussion section can be found in Chapter 9 and in lab 7.
 
 The Discussion is where you bring together your findings and consider these in light of the literature (and theory). It is also where you consider the wider importance of your findings, reflect on limitations and think about potential implications and future directions. 
 
@@ -332,15 +328,15 @@ Citations in the main body of the text and references in the reference list are 
 
 The appendices can often hold a lot of information.  In the qualitative report we ask you to include the following in the appendices of the report: 
 
-  * **Required**: A list of the interviews you have chosen and a link to the original dataset (do not include the transcripts themselves) 
+  * **Required**: Your focus group schedule. 
   * **Required**: [A reflexivity diary](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQC1PIxhBlndR74S_nfeKHNlAW5uQmGOpoRXCpLHC2fI_fI?e=aunShJ){target="_blank"} that you have developed over the course of completing your analysis. Please use the template linked here to complete your diary.
-   * **Required**: You might have a list of the interview questions (if easily obtained from your transcripts or study documentation on UK data service) 
-   * There may be other appendices you choose to include. If in doubt, please ask and we will do our best to help. 
+  * There may be other appendices you choose to include. If in doubt, please ask and we will do our best to help.
+  * **Do not include** your full transcript or coding as an appendix to your submission 1. We ask each group to submit their transcript to a separate submission port, and you should evidence your individual coding in submission 2 (detailed below)
 
 
 ### Submission 2: Step-by-step Evidence of the Analysis Process
 
-This year, we are asking that all students in RM2 complete two separate submissions for their qualitative report. 
+We are asking that all students in RM2 complete two separate submissions for their qualitative report. 
 
 - Submission 1 = full report with cover sheet and appendices
 - Submission 2 = step-by-step evidence of your Reflexive Thematic Analysis
@@ -536,11 +532,4 @@ In this section, this is where you aim to clearly articulate what each theme is 
 
 #### Coded transcripts
 
-Here, we ask that you provide all of your transcripts that have been coded (we advise two or three, with a max of four if doing the couples dataset). If you have coded the transcripts multiple times, please only include one set of transcripts. 
-
-::: {.callout-important}
-
-## Coded transcripts: What is asked for?
-
-In the template, we ask for you to provide all of your coded transcripts. These should either be commented in Word or scans of physical copies.
-:::
+Here, we ask that you provide your full coded transcript. This must be completed on Microsoft Word by adding comments.

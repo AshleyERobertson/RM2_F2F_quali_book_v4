@@ -9,7 +9,7 @@ On RM2, we mainly focus on "standard" data collection methodologies (interviews,
 - Dr Gail Prasad's study explores children's views of plurilingualism through collage-creation. [Access the study](https://www.tandfonline.com/doi/full/10.1080/13670050.2017.1420033){target="_blank"}
 - Dr December-Maxwell and colleagues investigate involuntary celibacy through Reddit data. [Access the study](https://link.springer.com/article/10.1007/s12119-020-09724-6){target="_blank"}
 
-**Dissertation hint:** Data scraping from Reddit (this can be done with R) has been used in previous dissertation projects where primary data collection would be too difficult due to the topic/population, or where a student has wanted to work with secondary data but the topic doesn't have open data available in research databases - keep this in mind for next year!
+**Dissertation hint:** Data scraping from Reddit (this can be done with R) has been used in previous dissertation projects where primary data collection would be too difficult due to the topic/population, or where a student has wanted to work with secondary data but the topic doesn't have open data available in research databases.
 
 
 ## Qualitative Research Showcase 2 - Participatory Research
