@@ -187,4 +187,4 @@ No, it is not possible to increase the word count for the report. It is a tight 
 
 **13. Can I use NVivo to code my data?**
 
-Not for this report. Please follow the guidance in the [coding section](https://ashleyerobertson.github.io/RM2_F2F_quali_book_v4/08_analysis.html#coding-steps-1-2) - for this report, you mus complete coding using Microsoft Word and by adding comments. 
+Not for this report. Please follow the guidance in the [coding section](https://ashleyerobertson.github.io/RM2_F2F_quali_book_v4/08_analysis.html#coding-steps-1-2) - for this report, you must complete coding using Microsoft Word and by adding comments. 
