@@ -64,8 +64,8 @@ book:
     - 10_group_proposal.qmd
     - 11_qualitative_report.qmd
     - 12_FAQs.qmd
-appendices:
-  - appendix_a_showcase.qmd
+  appendices:
+    - appendix_a_showcase.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
 format:
@@ -95,3 +95,12 @@ format:
     include-after-body:
     - include/webex.js
     - include/script.js
+
+  pdf:
+    include-in-header:
+      text: |
+        \usepackage[most]{tcolorbox}
+        \newtcolorbox{info}{
+          breakable,
+          title=Info
+        }
