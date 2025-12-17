@@ -23,7 +23,6 @@ book:
   search: true
   downloads:
   - pdf
-  - epub
   sharing:
   - twitter
   - facebook
