@@ -7,7 +7,7 @@ This section is intended to help you in the write up of your qualitative project
 - Chapter 13 in [Braun & Clarke (2013)](https://go.exlibris.link/5g3nFfGx){target="_blank"} is excellent support for writing up qualitative research
 - The feedback your group received on your group proposal
 - The feedback you received from RM1
-- [Braun & Clark (2006) paper](https://www.tandfonline.com/doi/abs/10.1191/1478088706QP063OA)
+- [Braun & Clark (2021) book](https://go.exlibris.link/kbbNSWpN)
 - Helpful resources for APA formatting are [OWL Purdue](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html) and [APA Style](https://apastyle.apa.org/style-grammar-guidelines)
 - We have developed a resource of [Frequently Asked Questions](#ch12_FAQs) from previous cohorts
 - [Student Learning Development](https://www.gla.ac.uk/myglasgow/sld/) have useful information about writing for students
@@ -27,7 +27,6 @@ Two separate submissions are required for this report:
     - Discussion
     - References (does not count towards word limit)
     - Appendices (does not count towards word limit)
-   
     
 - **Submission 2** should contain the required information about the process of your analysis, using the [template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQBqAG8H6Av_QJKLCWbynshmATiH8H20vAQAIhZ5ZfHF-Js?e=3WqVog)  provided. Submission 2 does not count towards the word limit. Please note that Phase 6 is not included as this is what you include in your Analysis section
     - Phase 1 (Familiarisation)
